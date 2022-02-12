@@ -9,7 +9,7 @@ gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
 gem 'sqlite3', '~> 1.4'
 gem 'bootstrap', '~> 4.4.1'
 # Use Puma as the app server
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 gem 'jquery-datatables-rails'
 gem 'ajax-datatables-rails'
